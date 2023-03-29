@@ -42,9 +42,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(12, 25);
+            this.pictureBox1.Location = new System.Drawing.Point(-39, -5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(165, 152);
+            this.pictureBox1.Size = new System.Drawing.Size(269, 213);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -111,7 +111,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.ClientSize = new System.Drawing.Size(422, 204);
+            this.ClientSize = new System.Drawing.Size(419, 198);
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.txtLogin);
             this.Controls.Add(this.txtSenha);
