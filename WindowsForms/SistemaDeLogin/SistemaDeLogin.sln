@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeLogin", "SistemaDeLogin\SistemaDeLogin.csproj", "{F2870116-CD92-42BE-AEA3-D26D38488903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2870116-CD92-42BE-AEA3-D26D38488903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2870116-CD92-42BE-AEA3-D26D38488903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2870116-CD92-42BE-AEA3-D26D38488903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2870116-CD92-42BE-AEA3-D26D38488903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD4B5D9E-3228-4AA2-A2B4-2CB1E4DFBCBD}
+	EndGlobalSection
+EndGlobal
